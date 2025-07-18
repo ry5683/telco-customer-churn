@@ -54,7 +54,7 @@ Predict which customers are at risk of cancelling service. This allows the busin
 
 ---
 
-## 🧠 Results
+## ✅ Results
 
 | Model                        | F1-Score (Churn = Yes) |
 |-----------------------------|------------------------|
